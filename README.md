@@ -1,0 +1,1 @@
+# spring-oauth-opaque-token-example
